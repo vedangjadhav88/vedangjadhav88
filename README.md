@@ -2,6 +2,7 @@
 ### **🧑🏻‍💻 Vedang Jadhav**
 
 Aspiring Data scientist | Python | Machine learning |Cloud Computing | Linux | Sponsored Student @ Thermo Fisher Scientific India | Automation, Research and Development Electronics & Telecommunication Engineer
+
 ---
 
 ### 🧰 Languages and Tools

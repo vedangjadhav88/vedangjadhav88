@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/vedangjadhav88/vedangjadhav88/blob/main/brain.jpg)
 ### Hi there 👋
 
 <!--

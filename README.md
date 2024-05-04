@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/vedangjadhav88/vedangjadhav88/blob/main/brain2.jpg)
-### Hi there 👋
+### **🧑🏻‍💻 Vedang Jadhav**
 
 <!--
 **vedangjadhav88/vedangjadhav88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,10 +26,8 @@ Aspiring Data scientist | Python | Machine learning |Cloud Computing | Linux | S
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-          
-
-br />
-<!--<img align="right" alt="original" width="400" src="https://github.com/vedangjadhav88/vedangjadhav88/blob/main/original.gif">
+          <br />
+<!--<img align="right" alt="original" width="400" src="https://github.com/vedangjadhav88/vedangjadhav88/blob/main/original.gif">-->
 
 <!--
 **vedangjadhav88/vedangjadhav88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

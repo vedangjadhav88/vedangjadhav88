@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/vedangjadhav88/vedangjadhav88/blob/main/brain2.jpg)
 ### 🧑🏻‍💻 Vedang Jadhav
 
-Aspiring Data scientist | Python | Machine learning |Cloud Computing | Linux | Sponsored Student @ Thermo Fisher Scientific India | Automation, Research and Development Electronics & Telecommunication Engineer
+Aspiring Data Scientist | Python & Machine Learning Enthusiast | Cloud Computing | Linux | Sponsored by Thermo Fisher Scientific India | Automation & R&D | Electronics & Telecommunication Engineer
 
 ---
 
